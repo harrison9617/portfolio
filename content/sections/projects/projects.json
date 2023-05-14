@@ -2,47 +2,72 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "Veloforte",
+      "description": "A natural performance nutrition retailer e-Commerce store built on Shopify. This project involved collaborating with a designer and sales optimisation expert to make changes to the site such as UI/UX enhancements, bug fixes and creating new sections using liquid and Shopify's schema.",
+      "tags": ["Shopify"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/veloforte.png",
+        "alt": "A screenshot of the Veloforte website homepage"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://veloforte.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "title": "Cullimore Dutton",
+      "description": "A solicitors and financial services firm. I used Adobe XD to design a mockup of the website and then built it out on WordPress.",
+      "tags": ["WordPress"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/cullimore-dutton.png",
+        "alt": "A screenshot of the Cullimore Dutton website homepage"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://cullimoredutton.co.uk/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "War Graves Week",
+      "description": "An online experience to commemorate incredible people who served in WWI and WWII for CWGC War Graves Week. The website is built using technologies such as React, Next.js and Tailwind along with other npm packages and is embedded into the Commonwealth War Graves Commission's website using an iFrame.",
+      "tags": ["React", "Next.js"],
+      "image": {
+        "src": "../../images/war-graves-week.png",
+        "alt": "A screenshot of the War Graves Week website homepage"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://war-graves.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "title": "Urban Aesthetics",
+      "description": "A Shopify store that sells fitness apparel. I redesigned the website, built new sections and optimised page load speed. I'm currently working on building a custom Shopify theme from the ground up for their rebrand.",
+      "tags": ["Shopify"],
+      "image": {
+        "src": "../../images/urban-aesthetics.png",
+        "alt": "A screenshot of the Urban Aesthetics website homepage"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://urbanaestheticscc.com/"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/harrison9617"
   }
 }
