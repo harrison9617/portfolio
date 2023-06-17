@@ -34,6 +34,22 @@
     },
     {
       "visible": true,
+      "title": "Left Bank",
+      "description": "Left Bank is a print and digital magazine about life on the Left Bank of the Mersey. I was heavily involved with the design process, creating the UI on Adobe XD and then built out the website using Next.js for the frontend connected to Strapi, the headless CMS.",
+      "tags": ["React", "Next.js", "Strapi"],
+      "image": {
+        "src": "../../images/wirral-left-bank.png",
+        "alt": "A screenshot of the Left Bank website homepage"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.leftbank.life/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "title": "War Graves Week",
       "description": "An online experience to commemorate incredible people who served in WWI and WWII for CWGC War Graves Week. The website is built using technologies such as React, Next.js and Tailwind along with other npm packages and is embedded into the Commonwealth War Graves Commission's website using an iFrame.",
       "tags": ["React", "Next.js"],

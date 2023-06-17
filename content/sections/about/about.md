@@ -3,7 +3,7 @@ imageSrc: "../../images/harrison-staff-headshot.jpg"
 imageAlt: "A photo of me"
 ---
 
-As a self taught developer, I value attention to detail, consistency and creativity.
+As a self taught developer, I value consistency, creativity and attention to detail.
 
 I enjoy creating modern and aesthetically pleasing websites with a preference for intuitive UI and UX. Another passion of mine is the world of e-Commerce and understanding how development, marketing and business play a role in creating a profitable brand.
 
