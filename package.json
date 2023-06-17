@@ -9,7 +9,7 @@
     "serve": "gatsby serve"
   },
   "engines": {
-    "node": "19.3.0"
+    "node": "18.x"
   },
   "dependencies": {
     "gatsby": "^5.0.1",
